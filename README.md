@@ -1,4 +1,15 @@
 <h1>Calculadora</h1>
+<h3>English</h3>
+<p>Project built at <strong>Orange Tech +</strong> bootcamp with Professor Pablo Henrique.
+
+Division, multiplication and zero button were implemented and I made changes in the calculator style.
+
+
+<h2>Technologies used:</h3>
+<li>React</li>
+<li>Styled Components.</li>
+<br>
+<h3>Portuguese</h3>
 <p>Projeto construído com o auxílio do professor Pablo Henrique no bootcamp <strong>Orange Tech +</strong>.
 
 Foram implementadas as funções de divisão e multiplicação, o botão de zero e fiz uma mudança no estilo da calculadora.
